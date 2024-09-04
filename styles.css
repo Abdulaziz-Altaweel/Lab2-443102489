@@ -1,0 +1,18 @@
+body {
+    background-color: #daa9a9;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #b02f2f;
+    text-align: center;  }
+  
+  p {
+    padding: 25px;
+  }
+  .center-image {
+    text-align: center;
+  }
